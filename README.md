@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 **Bem-vindo(a) ao meu perfil!**
 
-<!--
-**evandiopds/evandiopds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👤 Sobre Mim
+Sou técnico em Programação de Jogos (SENAI/PE) e atualmente estudante de Análise e Desenvolvimento de Sistemas (UniFAP/CE). Minha paixão atual é o desenvolvimento web, onde estou aplicando meus conhecimentos para construir interfaces interativas e eficientes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Objetivo
+Meu plano é me especializar e construir uma base sólida em **desenvolvimento web front-end**. Após entender bem essa área, meu próximo passo será mergulhar nos estudos de **back-end**, com o objetivo final de me tornar um desenvolvedor **full-stack web**.
+
+---
+
+### 🛠️ Ferramentas atuais
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📬 Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evandio-de-souza/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/evandiopds/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evandio.pds.filho@gmail.com)
