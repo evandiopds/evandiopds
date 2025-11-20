@@ -5,11 +5,6 @@ Sou técnico em Programação de Jogos (SENAI/PE) e atualmente estudante de Aná
 
 ---
 
-### 🚀 Objetivo
-No momento, estou em uma fase de exploração da minha trajetória na tecnologia. Embora eu tenha um grande interesse em desenvolvimento web, ainda vejo outras áreas que acredito ser interessante me especializar. Por isso, venho buscando ativamente adquirir um conhecimento mais amplo, estudando diferentes vertentes da tecnologia para entender melhor as possibilidades antes de definir um foco principal para minha carreira.
-
----
-
 ### 🛠️ Ferramentas atuais
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
