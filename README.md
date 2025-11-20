@@ -1,7 +1,7 @@
 ## 👋 **Bem-vindo(a) ao meu perfil!**
 
 ### 👤 Sobre Mim
-Sou técnico em Programação de Jogos (SENAI/PE) e atualmente estudante de Análise e Desenvolvimento de Sistemas (UniFAP/CE). Minha paixão atual é o desenvolvimento web, onde estou aplicando meus conhecimentos para construir interfaces interativas e eficientes.
+Com formação técnica em Programação de Jogos (SENAI/PE) e cursando ADS (UniFAP/CE), estou em constante aprendizado. No momento, direciono meus estudos para o ecossistema Web, descobrindo como aplicar minha bagagem técnica na construção de aplicações e interfaces interativas.
 
 ---
 
