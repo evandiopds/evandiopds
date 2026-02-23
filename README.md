@@ -1,8 +1,5 @@
 ## 👋 **Bem-vindo(a) ao meu perfil!**
 
-### 👤 Sobre Mim
-Com formação técnica em Programação de Jogos (SENAI/PE) e cursando ADS (UniFAP/CE), estou em constante aprendizado. No momento, direciono meus estudos para o ecossistema Web, descobrindo como aplicar minha bagagem técnica na construção de aplicações e interfaces interativas.
-
 ---
 
 ### 🛠️ Ferramentas atuais
