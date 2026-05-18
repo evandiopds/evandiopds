@@ -1,10 +1,11 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif" width="70" alt="Bulbasaur animado">
-  <h1>Evandio</h1>
-  <h3>Desenvolvedor de Software | Full Stack em Formação</h3>
-</div>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif" width="75" alt="Bulbasaur animado" align="right" />
 
-<br>
+# Evandio de Souza
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=30000&color=4FC08D&width=500&height=35&lines=Acad%C3%AAmico+de+ADS+%7C+Full+Stack+em+Forma%C3%A7%C3%A3o" alt="Acadêmico de ADS | Full Stack em Formação" />
+
+
+
+<br clear="right" />
 
 ## Sobre mim
 - Cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Paraíso (UniFAP CE).
@@ -17,30 +18,31 @@
 <br>
 
 ## Tecnologias e Ferramentas de Estudo
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-</div>
 
-<br>
-
-## Status do GitHub
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evandiopds&bg_color=0D1117&title_color=4FC08D&text_color=FFFFFF&icon_color=4FC08D&border_color=333333&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evandiopds&layout=compact&langs_count=7&bg_color=0D1117&title_color=4FC08D&text_color=FFFFFF&border_color=333333"/>
-</div>
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <b>Front-end</b>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,vue,figma" height="38" alt="Techs Front-end" />
+    </td>
+    <td valign="top" width="33%">
+      <b>Back-end</b>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=php,py,c" height="38" alt="Techs Back-end" />
+    </td>
+    <td valign="top" width="33%">
+      <b>Controle</b>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=git,github" height="38" alt="Ferramentas" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
 ## Contato
-<div align="center">
-  <a href="https://www.linkedin.com/in/evandio-de-souza" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:evandio.pds.filho@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+
+<a href="https://www.linkedin.com/in/evandio-de-souza" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="38" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:evandio.pds.filho@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="38" alt="Gmail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://discord.com/users/584587981147340820" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="38" alt="Discord" /></a>
