@@ -9,14 +9,22 @@ Acadêmico de ADS | Construindo uma base sólida em engenharia de software e arq
 
 ### Foco Atual (Estudos e Faculdade)
 *Focado em consolidar lógica, orientação a objetos e operações de banco de dados.*
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="Python" /> Python &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="20" alt="PHP" /> PHP &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="20" alt="PostgreSQL" /> PostgreSQL &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" alt="Git" /> Git &nbsp;&nbsp;&nbsp;&nbsp;
+
 <br>
-<img src="https://skillicons.dev/icons?i=py,php,postgres,git,github,vscode" height="38" alt="Techs Atuais" />
-  
 
 ### Contato Prático Anterior
 *Tecnologias trabalhadas no ensino técnico, interfaces ou em projetos iniciais com auxílio de IA.*
-<br>
-<img src="https://skillicons.dev/icons?i=js,html,css,c,figma" height="38" alt="Techs Secundárias" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="JavaScript" /> JavaScript &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" alt="HTML5" /> HTML5 &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" alt="CSS3" /> CSS3 &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="20" alt="C" /> C &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="20" alt="Figma" /> Figma
 
 <br>
 
