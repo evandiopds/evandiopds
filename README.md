@@ -45,5 +45,5 @@ Acadêmico de ADS | Construindo uma base sólida em engenharia de software e arq
 <br>
 
 <p>
-  <small><small><i>Banner adaptado da arte original de <a href="https://www.artstation.com/artwork/6L2AG6" target="_blank">Philipp A. Urlich</a></i></small></small>
+  <small><small><small><i>Banner adaptado da arte de <a href="https://www.artstation.com/artwork/6L2AG6" target="_blank">Philipp A. Urlich</a></i></small></small></small>
 </p>
