@@ -7,25 +7,27 @@ Acadêmico de ADS | Construindo uma base sólida em engenharia de software e arq
 
 ## Tecnologias e Ferramentas
 
-### Foco Atual (Estudos e Faculdade)
-*Focado em consolidar lógica, orientação a objetos e operações de banco de dados.*
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="Python" /> Python &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="20" alt="PHP" /> PHP &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="20" alt="PostgreSQL" /> PostgreSQL &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" alt="Git" /> Git &nbsp;&nbsp;&nbsp;&nbsp;
-
-<br>
-
-### Contato Prático Anterior
-*Tecnologias trabalhadas no ensino técnico, interfaces ou em projetos iniciais com auxílio de IA.*
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="JavaScript" /> JavaScript &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" alt="HTML5" /> HTML5 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" alt="CSS3" /> CSS3 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="20" alt="C" /> C &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="20" alt="Figma" /> Figma
-
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>Foco Atual (Estudos e Faculdade)</h4>
+      <i>Focado em consolidar lógica, orientação a objetos e operações de banco de dados.</i><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18" alt="Python" /> <b>Python</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="18" alt="PHP" /> <b>PHP</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="18" alt="PostgreSQL" /> <b>PostgreSQL</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="18" alt="Git" /> <b>Git</b>
+    </td>
+    <td valign="top" width="50%">
+      <h4>Contato Prático Anterior</h4>
+      <i>Tecnologias trabalhadas no ensino técnico, interfaces ou em projetos com auxílio de IA.</i><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="18" alt="JavaScript" /> <b>JavaScript</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="18" alt="HTML5" /> <b>HTML5</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="18" alt="CSS3" /> <b>CSS3</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="18" alt="C" /> <b>C</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="18" alt="Figma" /> <b>Figma</b>
+    </td>
+  </tr>
+</table>
 <br>
 
 ## Contato
@@ -34,4 +36,4 @@ Acadêmico de ADS | Construindo uma base sólida em engenharia de software e arq
 <a href="mailto:evandio.pds.filho@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="38" alt="Gmail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discord.com/users/584587981147340820" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="38" alt="Discord" /></a>
 
-> 🍃 O Bulbasaur no topo do meu perfil representa o meu estágio atual na programação. Conforme eu for adquirindo novas habilidades, subindo de nível na graduação e entregando projetos mais complexos, ele também evoluirá por aqui!
+> 🍃 O Bulbasaur no topo do meu perfil representa o meu estágio atual na programação. Conforme eu for adquirindo novas habilidades, subindo de nível na graduação e entregando projetos mais complexos, ele também evoluirá por aqui.
