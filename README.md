@@ -38,10 +38,12 @@ Acadêmico de ADS | Construindo uma base sólida em engenharia de software e arq
 <a href="mailto:evandio.pds.filho@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="38" alt="Gmail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discord.com/users/584587981147340820" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="38" alt="Discord" /></a>
 
+<br>
+
 > O Bulbasaur no topo representa o meu estágio atual na programação. Conforme eu for adquirindo novas habilidades, subindo de nível na graduação e entregando projetos mais complexos, ele também evoluirá por aqui.
 
 <br>
 
 <p>
-  <small><i>Banner adaptado da arte original de <a href="https://www.artstation.com/artwork/6L2AG6" target="_blank">Philipp A. Urlich</a></i></small>
+  <small><small><i>Banner adaptado da arte original de <a href="https://www.artstation.com/artwork/6L2AG6" target="_blank">Philipp A. Urlich</a></i></small></small>
 </p>
