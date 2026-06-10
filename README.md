@@ -1,4 +1,8 @@
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif" width="75" alt="Bulbasaur animado" align="right" />
+<img src="./assets/banner.png" width="100%" alt="Banner Pixel Art" />
+
+<br>
+
+<img src="./assets/bulbasaur.gif" width="75" alt="Bulbasaur animado" align="right" />
 
 # Evandio de Souza
 Acadêmico de ADS | Construindo uma base sólida em engenharia de software e arquitetura de sistemas.
