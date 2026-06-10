@@ -41,9 +41,5 @@ Acadêmico de ADS | Construindo uma base sólida em engenharia de software e arq
 <br>
 
 > O Bulbasaur no topo representa o meu estágio atual na programação. Conforme eu for adquirindo novas habilidades, subindo de nível na graduação e entregando projetos mais complexos, ele também evoluirá por aqui.
-
-<br>
-
-<p>
-  <small><small><small><i>Banner adaptado da arte de <a href="https://www.artstation.com/artwork/6L2AG6" target="_blank">Philipp A. Urlich</a></i></small></small></small>
-</p>
+> 
+> <sub style="display: block; margin-top: 10px;">Banner adaptado da arte de [Philipp A. Urlich](https://www.artstation.com/artwork/6L2AG6)</sub>
