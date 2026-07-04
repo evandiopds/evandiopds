@@ -22,9 +22,6 @@ Acadêmico de ADS | Construindo uma base sólida em engenharia de software e arq
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="18" alt="PostgreSQL" /> <b>PostgreSQL</b><br><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="18" alt="Tailwind CSS" /> <b>Tailwind CSS</b> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="18" alt="Vue.js" /> <b>Vue.js</b>
     </td>
-    <td valign="middle" align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evandiopds&layout=compact&theme=github_dark" alt="Linguagens mais usadas" />
-    </td>
   </tr>
 </table>
 <br>
