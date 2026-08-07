@@ -19,9 +19,6 @@ Uno visão de produto e UI/UX Design à implementação prática no Desenvolvime
 
 <br>
 
-<img src="./assets/top-langs.svg" alt="Linguagens Mais Utilizadas" />
-<br>
-
 ---
 
 ## Contatos / Perfis
